@@ -47,6 +47,6 @@ Work experience
 Skills
 ======
 * Analytics Tools: Python, R, SAS, SQL, Hadoop(Hive), Spark, Excel
-*Visualization: Power BI, RShiny, Tableau
-*Statistical Techniques: Linear/Logistic regression, Ridge and Lasso regression, Time series modeling, Clustering, Decision trees, Random forest, Xgboost, Neural networks, Deep learning (CNNs, RNNs)
+* Visualization: Power BI, RShiny, Tableau
+* Statistical Techniques: Linear/Logistic regression, Ridge and Lasso regression, Time series modeling, Clustering, Decision trees, Random forest, Xgboost, Neural networks, Deep learning (CNNs, RNNs)
 
