@@ -11,49 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* Integrated M.S. Exploration Geophysics, IIT Kharagpur 2019
+* Senior Secondary CBSE, Maharaja Sawai Man Singh Vidyalaya, Jaipur 2012-14
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* American Express, Bangalore, India
+  * Credit Risk Analyst, US Commercial Limits Nov'19-Present
+    * Managing strategy for Limits capacity  
+
+* ZS Associates, Pune, India
+  * Decision Analytics Associate Jul'19-Nov'19
+    * Worked on developing a holistic view of supply-chain network involving Insuarance, Subsidiaries, Physicians etc. for Merck & Co. (Pharamaceutical MNC,US)
+
+* Cartesian Consulting, Mumbai, India
+  * Data Science Intern May'18-Jul'18
+    * Project: Using Machine learning to solve for "Class-imbalance" in Classification Problems
+    * Used Resampling techniques(Undersampling, Oversampling with SMOTE), Boosting techniques(Xgboost and RUSBoost) and Logistic Regression
+    * Worked on a Multi-brand Clothing based dataset and a Product/Service based dataset, having an imbalance of 98.3:1.7% and 99.76:0.24% respectively
+    * Combined these models into a user-friendly R-package, such that it gave a choice from multiple models and automated the process for the user
+    * Was able to achieve 4% and 8% improvement in the AUC score than the previous methods used
+     
+* Voksedigital Consultancy, Pune, India
+  * Data Science Intern May'17-Jul'17
+    * Project: Develop an analytical model to understand traffic patterns and congestion of traffic at main roads and junctions
+    * Collected real-time trafficdata on multiple time intervals through Google Maps API, data had to be extracted from JSON format
+    * Analyzed how much extra time (than average) it would take to cover a particular distance due to traffic while driving
+    * Researched in-depth about factors causing congestions, peak traffic hours, target area locality and dimensions of the roads
+    * Estimated traffic density of around 3000/ hour(one way) and 40000/day for Bund Garden, Pune and similarly for other roads on that junction
+    * Made a Visualization dashboard depicting various aspects of the data in Microsoft power BI       
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Analytics Tools: Python, R, SAS, SQL, Hadoop(Hive), Spark, Excel
+Visualization: Power BI, RShiny, Tableau
+Statistical Techniques: Linear/Logistic regression, Ridge and Lasso regression, Time series modeling, Clustering, Decision trees, Random forest, Xgboost, Neural networks, Deep learning (CNNs, RNNs)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
