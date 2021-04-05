@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* Integrated M.S. Exploration Geophysics, IIT Kharagpur 2019
+* Integrated M.Sc. Exploration Geophysics, IIT Kharagpur 2019
 * Senior Secondary CBSE, Maharaja Sawai Man Singh Vidyalaya, Jaipur 2012-14
 
 Work experience
@@ -24,7 +24,7 @@ Work experience
     * Worked with financial, transactional, and credit risk data to develop multiple analyses
     * Was responsible for managing processes related to commercial capacity changes such as Proactive/Temp limit increase, Proactive financial gathering
     * Developed strategies and worked in collaboration with the tech teams to develop Bank statements based underwriting for US Commercial portfolio
-    * Developed a dashboard to track volume, profile and performance for the various capacity processes on a monthly basisResponsible for managing limit capacity strategy
+    * Developed a dashboard to track volume, profile and performance for the various capacity processes on a monthly basis
 
 * ZS Associates, Pune, India
   * Decision Analytics Associate Jul'19-Nov'19
