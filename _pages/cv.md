@@ -20,8 +20,11 @@ Work experience
 
 * American Express, Bangalore, India
   * Credit Risk Analyst, US Commercial Limits Nov'19-Present
-    * Responsible for managing limit capacity strategy
-    * TBC
+    * Managed and developed capacity and underwriting strategies for the US Commercial portfolio to minimise credit risk
+    * Worked with financial, transactional, and credit risk data to develop multiple analyses
+    * Was responsible for managing processes related to commercial capacity changes such as Proactive/Temp limit increase, Proactive financial gathering
+    * Developed strategies and worked in collaboration with the tech teams to develop Bank statements based underwriting for US Commercial portfolio
+    * Developed a dashboard to track volume, profile and performance for the various capacity processes on a monthly basisResponsible for managing limit capacity strategy
 
 * ZS Associates, Pune, India
   * Decision Analytics Associate Jul'19-Nov'19
@@ -42,7 +45,13 @@ Work experience
     * Analyzed how much extra time (than average) it would take to cover a particular distance due to traffic while driving
     * Researched in-depth about factors causing congestions, peak traffic hours, target area locality and dimensions of the roads
     * Estimated traffic density of around 3000/ hour(one way) and 40000/day for Bund Garden, Pune and similarly for other roads on that junction
-    * Made a Visualization dashboard depicting various aspects of the data in Microsoft power BI       
+    * Made a Visualization dashboard depicting various aspects of the data in Microsoft power BI
+
+Achievements and Awards
+=======================
+
+* Was recognised with Analyst of the Quarter (Q2'20) by American Express for consistent performance and contributions
+* Was awarded with Best Case Study analysis in High-Balance Default case study forum of American express for detailed research and opportunity recommendations resulting in ~$400K benefit for the company
 
 Skills
 ======
