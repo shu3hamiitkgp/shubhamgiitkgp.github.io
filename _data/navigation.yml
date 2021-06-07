@@ -2,10 +2,7 @@
 main:
   
   - title: "About"
-    url: /about/    
-
-  - title: "Experience"
-    url: /experience/    
+    url: /about/      
         
   - title: "Blog Posts"
     url: /year-archive/
