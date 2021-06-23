@@ -21,10 +21,9 @@ Work experience
 * American Express, Bangalore, India
   * Credit Risk Analyst, US Commercial Limits Nov'19-Present
     * Managed and developed capacity and underwriting strategies for the US Commercial portfolio to minimise credit risk
-    * Worked with financial, transactional, and credit risk data to develop multiple analyses
-    * Was responsible for managing processes related to commercial capacity changes such as Proactive/Temp limit increase, Proactive financial gathering
-    * Developed strategies and worked in collaboration with the tech teams to develop Bank statements based underwriting for US Commercial portfolio
-    * Developed a dashboard to track volume, profile and performance for the various capacity processes on a monthly basis
+    * Gained significant experience of working with financial, transactional and credit risk data along developing multiple analyses
+    * Managed credit risk processes such as Proactive financial gathering, Proactive and Temp limit increase
+    * Developed strategies and worked in collaboration with the tech teams to develop Bank statements based underwriting capability for US Commercial portfolio
 
 * ZS Associates, Pune, India
   * Decision Analytics Associate Jul'19-Nov'19
@@ -32,20 +31,17 @@ Work experience
 
 * Cartesian Consulting, Mumbai, India
   * Data Science Intern May'18-Jul'18
-    * Project: Using Machine learning to solve for "Class-imbalance" in Classification Problems
-    * Used Resampling techniques(Undersampling, Oversampling with SMOTE), Boosting techniques(Xgboost and RUSBoost) and Logistic Regression
-    * Worked on a Multi-brand Clothing based dataset and a Product/Service based dataset, having an imbalance of 98.3:1.7% and 99.76:0.24% respectively
-    * Combined these models into a user-friendly R-package, such that it gave a choice from multiple models and automated the process for the user
-    * Was able to achieve 4% and 8% improvement in the AUC score than the previous methods used
-     
+     * Project: Using Machine learning to solve for “Class-imbalance” in Classification Problems (Retail products based data)
+     * Used Resampling techniques(Undersampling, Oversampling with SMOTE), Boosting techniques(Xgboost and RUSBoost) and Logistic Regression
+     * Worked on datasets with high imbalance of ~98:2% imbalance and was able to achieve ~8% improvement in the AUC score as compared to earlier used methods
+
 * Voksedigital Consultancy, Pune, India
   * Data Science Intern May'17-Jul'17
-    * Project: Develop an analytical model to understand traffic patterns and congestion of traffic at main roads and junctions
-    * Collected real-time trafficdata on multiple time intervals through Google Maps API, data had to be extracted from JSON format
-    * Analyzed how much extra time (than average) it would take to cover a particular distance due to traffic while driving
-    * Researched in-depth about factors causing congestions, peak traffic hours, target area locality and dimensions of the roads
-    * Estimated traffic density of around 3000/ hour(one way) and 40000/day for Bund Garden, Pune and similarly for other roads on that junction
-    * Made a Visualization dashboard depicting various aspects of the data in Microsoft power BI
+    * Project: To estimate viewership of billboards on any junction or main roads
+    * Developed an analytical model to understand traffic patterns and congestion of traffic at main roads and junctions
+    * Collected real-time traffic data through Google Maps API to estimate stoppage time for a vehicle while traveling over a particular distance due to traffic
+    * Researched in-depth about factors causing congestions, peak traffic hours, target area locality and dimensions of the roads. 
+    * Developed a visualization dashboard depicting various aspects of the study in Microsoft power BI
 
 Achievements and Awards
 =======================
