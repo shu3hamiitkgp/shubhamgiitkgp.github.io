@@ -5,7 +5,7 @@ main:
     url: /about/      
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /talks/
     
   - title: "Resume"
     url: /cv/
