@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shubham Goyal"
-  avatar           : "profile.jpg"
+  avatar           : "dp.jpg"
   bio              : "Engineer engrossed in Data Science,Software and Photography"
   location         : "Boston, MA"
   employer         : "American Express"
@@ -106,7 +106,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "8029010/shubham-goyal"
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "Shu3ham96"
@@ -116,7 +116,8 @@ author:
   youtube          :
   wikipedia        :
   kaggle           : "shubh1596"
-  analytics_vidhya : "shubhamg96"
+  analytics_vidhya : 
+  medium           : "goyal.shubh15"
 
 # Reading Files
 include:
