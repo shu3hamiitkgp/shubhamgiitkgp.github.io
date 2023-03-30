@@ -93,6 +93,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
+  kaggle           : "shubh1596"
   flickr           :
   facebook         :
   foursquare       :
@@ -106,7 +107,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  medium           : "goyal.shubh15"
   steam            :
   tumblr           :
   twitter          : "Shu3ham96"
@@ -115,9 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  kaggle           : "shubh1596"
   analytics_vidhya : 
-  medium           : "goyal.shubh15"
 
 # Reading Files
 include:
