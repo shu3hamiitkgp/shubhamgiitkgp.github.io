@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shubham Goyal"
+#title: "About SG"
 author_profile: true
 redirect_from: 
   - /about/
